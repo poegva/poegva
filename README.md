@@ -6,9 +6,10 @@
 
 <p>Some of the projects I've contributed to:</p>
 <ul>
+  <li><a href="https://cega.fi/"><b>Cega:</b></a> largest exotic derivatives protocol</li>
   <li><a href="https://via.exchange/"><b>Via Protocol:</b></a> safe and efficient cross-chain router</li>
   <li><a href="https://clearpool.finance/"><b>Clearpool Finance:</b></a> the first decentralized dynamic marketplace for institutional capital</li>
-  <li><a href="https://pokerdao.xyz/"><b>Poker DAO:</b></a> fully decentralized non-custodial poker protocol</li>
+  <li><a href="https://azuro.org/"><b>Azuro:</b></a> one of the largest protocols for prediction market </li>
   <li><a href="https://companydao.org/"><b>Company DAO:</b></a> service to set up and manage companies with web3</li>
 </ul>
 
